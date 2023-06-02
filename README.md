@@ -1,3 +1,3 @@
 # Release-Branching-Strategy
 
-Микола Єрмоленко
+Микола Єрмоленко ІН.м-26
